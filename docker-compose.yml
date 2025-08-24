@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    image: team3-image:latest
+    ports:
+      - ""
+    environment:
+      - DATABASE=
+      - HOST=
+      - USER=
+      - PASSWORD=

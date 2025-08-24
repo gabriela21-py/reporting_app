@@ -1,0 +1,5 @@
+Flask==2.3.3
+dash==2.16.1
+psycopg2-binary==2.9.9
+pandas
+plotly
